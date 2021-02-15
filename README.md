@@ -1,5 +1,7 @@
 # **Concept: A Public Health App**
 *Sofia Chevrolat (June 2020)*
+
+> NB : This project is the first of a series comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 This study in 2 notebooks aims to estimate the feasability of exploiting <i>Open Food Facts</i>' database, containing more than a million food items, as part of a call for proposals by Santé publique France. 
 The French national public health agency would like to be submitted with ideas for innovative applications on the theme of nutrition. 
@@ -134,4 +136,4 @@ __________
 
 For a complete presentation and commentary of the results of this analysis, please see the PowerPoint presentation.
 
-NOTE: The presentation is in French.
+> NB: The presentation is in French.
