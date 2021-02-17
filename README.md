@@ -4,7 +4,7 @@
 > NB : This project is the 4th of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://madimedia.pro)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://madimedia.pro)
 
 This study in 2 notebooks aims to estimate the feasability of exploiting <i>Open Food Facts</i>' database, containing more than a million food items, as part of a call for proposals by Santé publique France. 
 The French national public health agency would like to be submitted with ideas for innovative applications on the theme of nutrition. 
